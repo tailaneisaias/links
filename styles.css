@@ -16,3 +16,13 @@
   border-radius: 50%;
   border: 2px solid black;
 }
+
+.cabecalho h1 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.cabecalho h2 {
+  font-size: 18px;
+  font-weight: 500;
+}
