@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background: #9e8eff;
+}
+
 #container {
   position: absolute;
   top: 50%;
