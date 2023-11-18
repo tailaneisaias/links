@@ -11,3 +11,8 @@
   text-align: center;
   transform: translate(0, -50%);
 }
+
+.imagem-de-perfil {
+  border-radius: 50%;
+  border: 2px solid black;
+}
