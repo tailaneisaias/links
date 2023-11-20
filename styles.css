@@ -37,5 +37,11 @@ body {
 }
 
 .btn-link-insta {
+  padding: 10px 72px;
+  align-items: center;
+  gap: 16px;
   background: #ff5e5e;
+  border: 2px solid black;
+  color: rgb(0, 0, 0);
+  box-shadow: 4px 4px 0px 0px #000;
 }
