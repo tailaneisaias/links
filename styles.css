@@ -30,3 +30,7 @@ body {
   font-size: 18px;
   font-weight: 500;
 }
+
+.btn-link {
+  color: rgb(12, 15, 15);
+}
