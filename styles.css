@@ -55,3 +55,13 @@ body {
   background: #42c1d6;
   box-shadow: 4px 4px 0px 0px #000;
 }
+
+.btn-link-be {
+  padding: 10px 72px;
+  width: 218px;
+  align-items: center;
+  gap: 16px;
+  border: 2px solid #000;
+  background: #42c1d6;
+  box-shadow: 4px 4px 0px 0px #000;
+}
